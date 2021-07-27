@@ -565,6 +565,33 @@ footer {
   font-size: 1.2em;
 }
 
+/* ------------------------------- ----- Courses Styles ----- -------------------------------
+*/
+#courses {
+  padding: 50px 15px;
+  text-align: center;
+}
+#courses h2 {
+  color: #374054;
+  margin-bottom: 50px;
+}
+#courses ul {
+  display: block;
+  margin: 0 auto;
+  padding: 0;
+  max-width: 800px;
+}
+#courses li {
+  display: inline-block;
+  margin: 7px;
+  padding: 5px 10px;
+  color: #374054;
+  background: #e4e4ea;
+  list-style: none;
+  cursor: default;
+  font-size: 1.2em;
+}
+
 /* ------------------------------- ----- 10. Contact Styles ----- -------------------------------
 */
 #contact {
